@@ -5,4 +5,4 @@
  
  Several notebook showing examples of how to use these two py files
  
- LSTM model in LSTM notebook, show LSTM model with/without CNN layer. Show MSE.
+ LSTM model in notebook "LSTM_(with or without CNN layer).ipynb", show LSTM model with/without CNN layer. Show MSE.
